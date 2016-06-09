@@ -1,3 +1,2 @@
 Git third-branch.
 
-Git third & first merge.
