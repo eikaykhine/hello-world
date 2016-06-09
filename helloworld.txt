@@ -1,2 +1,2 @@
-Git third-branch.
+Git first-branch.
 
