@@ -1,7 +1,1 @@
-This is hello world new file.
-
-Edit at github.
-
-Edit at local.
-
-Update at github.
+This is txt file from first_branch
