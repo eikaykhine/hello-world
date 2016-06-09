@@ -1,2 +1,2 @@
-This is txt file from first_branch
+Git third-branch.
 
